@@ -78,7 +78,7 @@ jupyterlab
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone Parkinsons-Disease-Prediction
    ```
 2. Navigate to the project directory:
    ```bash
